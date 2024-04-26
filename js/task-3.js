@@ -14,3 +14,5 @@ console.log(checkForSpam("[SPAM] How to earn fast money?"));
 
 
 
+    
+   
